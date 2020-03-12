@@ -43,7 +43,7 @@ class App extends Component {
       <h1>Loading...</h1> :
       (
         <div className="tc">
-          <h1 className="f2 ">ROBOTFRIENDS</h1>
+          <h1 className="f2 ">ROBOFRIENDS</h1>
           <SearchBox searchChange={this.onSearchChange} />
 
           <Scroll>
